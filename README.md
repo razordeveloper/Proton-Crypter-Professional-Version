@@ -14,15 +14,11 @@ Proton Crypter is one of the best crypters written in 2022 with new source code.
 
 ![2MVuz6y4B6zz](https://imgur.com/N0j3bIh.jpg)
 
-# Last Scan Result 19/05/2022
-
-https://antiscan.me/scan/new/result?id=e660OqXBrgg3
-
 # YouTube Tutorial 
 
-Proton Protector v2.0 https://youtu.be/xy8y0poGJ3k
+https://youtu.be/xy8y0poGJ3k
 
-Proton Protector v2.0.0 - ESET HIPS Proactive Bypass https://youtu.be/xy8y0poGJ3k
+https://youtu.be/xy8y0poGJ3k
 
 # Features (NEW)
 
