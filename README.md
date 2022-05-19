@@ -2,8 +2,6 @@
 
 Proton Crypter is one of the best crypters written in 2022 with new source code. 
 
-![2MVuz6y4B6zz](https://imgur.com/Le6iIvj.jpg)
-
 ![2MVuz6y4B6zz](https://imgur.com/wPiwNYD.jpg)
 
 ![2MVuz6y4B6zz](https://imgur.com/omSLMKt.jpg)
